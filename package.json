@@ -1,5 +1,5 @@
 {
-  "name": "headers-echo",
+  "name": "echo",
   "version": "0.0.1",
   "description": "a service that echos connect info",
   "main": "index.js",
